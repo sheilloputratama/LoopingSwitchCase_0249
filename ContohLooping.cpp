@@ -17,6 +17,13 @@ int main() {
     }
     cout << "Nilai Counter terakhir = " << counter << endl;
     cout << endl;
+ //Loop for descending
+ for (counter = 5; counter < 0; counter--)
+ {
+     cout << "Nilai Counter = " << counter << " TI UMY" << endl;
+ }
+ cout << "Nilai Counter terakhir = " << counter << endl;
+ cout << endl;
 
    
      
